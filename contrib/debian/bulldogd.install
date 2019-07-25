@@ -1,0 +1,3 @@
+usr/local/bin/bulldogd usr/bin
+usr/local/bin/bulldog-cli usr/bin
+debian/examples/bulldog.conf etc/bulldog

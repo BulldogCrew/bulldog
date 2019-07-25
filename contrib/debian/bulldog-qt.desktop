@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=bulldog
+Comment=bulldog P2P Cryptocurrency
+Comment[fr]=bulldog, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=bulldog, eşten eşe kriptografik sanal para birimi
+Exec=bulldog-qt %u
+Terminal=false
+Type=Application
+Icon=bulldog128
+MimeType=x-scheme-handler/bulldog;
+Categories=Office;Finance;
+StartupWMClass=bulldog-qt

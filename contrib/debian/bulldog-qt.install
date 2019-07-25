@@ -1,0 +1,6 @@
+usr/local/bin/bulldog-qt usr/bin
+share/pixmaps/bulldog32.xpm usr/share/pixmaps
+share/pixmaps/bulldog16.xpm usr/share/pixmaps
+share/pixmaps/bulldog128.png usr/share/pixmaps
+debian/bulldog-qt.desktop usr/share/applications
+debian/bulldog-qt.protocol usr/share/kde4/services/

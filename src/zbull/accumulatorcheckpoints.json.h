@@ -1,4 +1,5 @@
-// Copyright (c) 2018 The BULL developers
+// Copyright (c) 2018 The PIVX developers
+// Copyright (c) 2019 The BULL developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 

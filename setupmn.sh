@@ -6,7 +6,7 @@ CONFIGFOLDER='/root/.bulldog'
 COIN_DAEMON='bulldogd'
 COIN_CLI='bulldog-cli'
 COIN_PATH='/usr/local/bin/'
-COIN_REPO='https://github.com/Liquid369/bulldog'
+COIN_REPO='https://github.com/BulldogCrew/bulldog'
 COIN_TGZ='https://github.com/bulldog/bulldog/releases/download/4.0.0/Bulldog-4.0.0-x86_64-linux-gnu.tar.gz'
 COIN_ZIP=$(echo $COIN_TGZ | awk -F'/' '{print $NF}')
 COIN_NAME='Bulldog'
@@ -310,7 +310,7 @@ fi
 
 function prepare_system() {
  cd ~
-   wget https://gist.githubusercontent.com/Liquid369/eca7f89b6c4e63f9b328d92a4f508626/raw/ba14590e3f600acdf8683eeb16cc8b2f9c8fb23e/bull.txt
+   wget https://gist.githubusercontent.com/BulldogCrew/eca7f89b6c4e63f9b328d92a4f508626/raw/ba14590e3f600acdf8683eeb16cc8b2f9c8fb23e/bull.txt
 #  wget https://gist.githubusercontent.com/hoserdude/9661c9cdc4b59cf5f001/raw/5972d4d838691c1a1f33fb274f97fa0b403d10bd/bull.txt
   cat bull.txt
 printf "%s\n"
